@@ -1,0 +1,20 @@
+commend - git statues
+
+commend - git --version
+
+ans - git version 2.39.0.windows.
+
+commend - git help config
+
+commend - pwd
+
+ans: /c/Users/HP
+
+commend: git init
+
+commend: git status
+commend: git commit -m "first commit"
+commend: git push orgin master
+ git add demo.txt
+
+
